@@ -1,0 +1,15 @@
+{
+  "name": "ff-max-proxy-server",
+  "version": "1.0.0",
+  "description": "Free Fire Max v2.133.1 Proxy Server - Developer By MR TAKIBUL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
